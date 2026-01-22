@@ -1,7 +1,6 @@
 # Gmail IMAP → CSV → Google Sheets (Colab)
 
 Python script that reads Gmail emails via IMAP, applies dynamic filters from `filters.json`, and saves results incrementally to CSV and Google Sheets using Google Colab OAuth.  
-Script em Python que lê emails do Gmail via IMAP, aplica filtros dinâmicos do `filters.json` e salva os resultados incrementalmente em CSV e Google Sheets via OAuth do Google Colab.
 
 ## Install
 
